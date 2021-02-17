@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnpoint&show_icons=true&hide_border=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpoint&layout=compact&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnpoint&show_icons=true&hide_border=true&&exclude_repo=johnpoint.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpoint&layout=compact&hide_border=true&&exclude_repo=johnpoint.github.io" />
 </a>
